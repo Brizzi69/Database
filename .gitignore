@@ -1,2 +1,4 @@
 SQL
+sqlc
 *.db
+.DS_Store
